@@ -1,4 +1,10 @@
 
+# main function of map !
+
+# map(function, iterable)
+
+#####################################################
+
 # THE SAME RESULT WITH USING 'MAP' and 'DEF' function
 
 nums = (2,4,6,8,10)
@@ -16,8 +22,6 @@ def check(*args):
     return score
 
 print(check(*nums))
-
-
 
 ###################################
 
